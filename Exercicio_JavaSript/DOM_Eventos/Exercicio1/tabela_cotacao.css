@@ -1,0 +1,11 @@
+body{
+  background-color: #2b2b2b;
+}
+
+.acima_de_50 {color: greenyellow}
+
+.abaixo_de_50{color: firebrick}
+
+.igual_a_50{color: deepskyblue}
+
+.form-materia{margin: 15px}
